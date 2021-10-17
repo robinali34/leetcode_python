@@ -1,5 +1,5 @@
 # leetcode
-Leetcode practice in Java, Python, Ruby
+Leetcode practice in Python
 
 
 
@@ -11,11 +11,11 @@ Leetcode practice in Java, Python, Ruby
 
 
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-[Remove Duplicates from Sorted Array Solution]: https://github.com/robinali/leetcode/blob/main/src/easy/remove-duplicates-from-sorted-array/solution.py
+[Remove Duplicates from Sorted Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_duplicates_from_sorted_array/solution.py
 [Best Time to Buy and Sell Stock II]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-[Best Time to Buy and Sell Stock II Solution]: https://github.com/robinali/leetcode/blob/main/src/easy/best-time-to-buy-and-sell-stock-ii/solution.py
+[Best Time to Buy and Sell Stock II Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/best_time_to_buy_and_sell_stock_ii/solution.py
 [Rotate Array]: https://leetcode.com/problems/rotate-array
-[Rotate Array Solution]: https://github.com/robinali/leetcode/blob/main/src/medium/rotate-array/solution.py
+[Rotate Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/rotate_array/solution.py
 
 [Easy]: https://github.com/robinali/leetcode/tree/main/src/easy
 [Medium]: https://github.com/robinali/leetcode/tree/main/src/medium

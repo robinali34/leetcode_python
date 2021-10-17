@@ -12,9 +12,3 @@ class Solution(object):
     def maxProfit(self, prices: List[int]) -> int:
         # Iterate all prices from idx 1, get max difference prices[idx] - prices[idx - 1]
         return sum(max(0, p - q) for p, q in zip(prices[1:], prices))
-
-if __name__ == '__main__':
-    solution = Solution()
-    print(7 == solution.maxProfit([7,1,5,3,6,4]))
-    print(4 == solution.maxProfit([1,2,3,4,5]))
-    print(0 == solution.maxProfit([7,6,4,3,1]))

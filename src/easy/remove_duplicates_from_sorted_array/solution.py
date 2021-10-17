@@ -20,8 +20,3 @@ class Solution(object):
                 idx += 1
                 nums[idx] = nums[i]
         return idx + 1
-
-if __name__ == '__main__':
-    solution = Solution()
-    print(2 == solution.removeDuplicates([1, 2, 2]))
-    print(5 == solution.removeDuplicates([0,0,1,1,1,2,2,3,3,4]))
