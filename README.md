@@ -5,8 +5,15 @@ Leetcode practice in Python
 
 |      | [Google top questions]                                           |Difficulty|Wiki                |Solution                 |
 | ---- | ---------------------------------------------------------------- | -------- |------------------- |-------------------------|
+| 1   | [Two Sum]              |	[Easy]	|                    |[Two Sum Solution] |
+| ---- | ---------------------------------------------------------------- | -------- |------------------- |-------------------------|
+| 3   | [Longest Substring Without Repeating Characters]              |	[Medium]	|                    |[Longest Substring Without Repeating Characters Solution] |
 | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    |[Remove Duplicates from Sorted Array Solution] |
+| 49   | [Group Anagrams]              |	[Medium]	|                    |[Group Anagrams Solution] |
 | 122   | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    |[Best Time to Buy and Sell Stock II Solution] |
+| 238   | [Product of Array Except Self]              |	[Medium]	|                    |[Product of Array Except Self Solution] |
+| 242   | [Valid Anagram]              |	[Easy]	|                    |[Valid Anagram Solution] |
+| 560   | [Subarray Sum Equals K]              |	[Medium]	|                    |[Subarray Sum Equals K Solution] |
 | 189   | [Rotate Array]                                    |  [Medium] |                    |[Rotate Array Solution] |
 | 1060   | [Missing Element in Sorted Array]                                    |  [Medium] |                    |[Missing Element in Sorted Array Solution] |
 
@@ -18,6 +25,19 @@ Leetcode practice in Python
 [Rotate Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/rotate_array/solution.py
 [Missing Element in Sorted Array]: https://leetcode.com/problems/missing-element-in-sorted-array
 [Missing Element in Sorted Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/missing_element_in_sorted_array/solution.py
+[Two Sum]: https://leetcode.com/problems/two-sum/
+[Two Sum Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/two_sum/solution.py
+[Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters
+[Longest Substring Without Repeating Characters Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/longest_substring_without_repeating_characters/solution.py
+[Subarray Sum Equals K]: https://leetcode.com/problems/subarray-sum-equals-k
+[Subarray Sum Equals K Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/subarray_sum_equals_k/solution.py
+[Valid Anagram]: https://leetcode.com/problems/valid-anagram
+[Valid Anagram Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/valid_anagram/solution.py
+[Group Anagrams]: https://leetcode.com/problems/group-anagrams
+[Group Anagrams Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/group_anagrams/solution.py
+[Product of Array Except Self]: https://leetcode.com/problems/product-of-array-except-self
+[Product of Array Except Self Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/product_of_array_except_self/solution.py
+
 
 [Easy]: https://github.com/robinali/leetcode/tree/main/src/easy
 [Medium]: https://github.com/robinali/leetcode/tree/main/src/medium
