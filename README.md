@@ -3,19 +3,24 @@ Leetcode practice in Python
 
 
 
-|      | [Google top questions]                                           |Difficulty|Wiki                |Solution                 |
-| ---- | ---------------------------------------------------------------- | -------- |------------------- |-------------------------|
-| 1   | [Two Sum]              |	[Easy]	|                    |[Two Sum Solution] |
-| ---- | ---------------------------------------------------------------- | -------- |------------------- |-------------------------|
-| 3   | [Longest Substring Without Repeating Characters]              |	[Medium]	|                    |[Longest Substring Without Repeating Characters Solution] |
-| 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    |[Remove Duplicates from Sorted Array Solution] |
-| 49   | [Group Anagrams]              |	[Medium]	|                    |[Group Anagrams Solution] |
-| 122   | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    |[Best Time to Buy and Sell Stock II Solution] |
-| 238   | [Product of Array Except Self]              |	[Medium]	|                    |[Product of Array Except Self Solution] |
-| 242   | [Valid Anagram]              |	[Easy]	|                    |[Valid Anagram Solution] |
-| 560   | [Subarray Sum Equals K]              |	[Medium]	|                    |[Subarray Sum Equals K Solution] |
-| 189   | [Rotate Array]                                    |  [Medium] |                    |[Rotate Array Solution] |
-| 1060   | [Missing Element in Sorted Array]                                    |  [Medium] |                    |[Missing Element in Sorted Array Solution] |
+| Idx |      | [Google top questions]                                           |Difficulty|Wiki                |Solution                 |
+|-----|------| ---------------------------------------------------------------- | -------- |------------------- |-------------------------|
+| 1   | 1    | [Two Sum]              |	[Easy]	|                    |[Two Sum Solution] |
+| 2   | 3    | [Longest Substring Without Repeating Characters]              |	[Medium]	|                    |[Longest Substring Without Repeating Characters Solution] |
+| 3   | 20   | [Valid Parentheses]              |	[Easy]	|                    |[Valid Parentheses Solution] |
+| 4   | 21   | [Merge Two Sorted Lists]              |	[Easy]	|                    |[Merge Two Sorted Lists Solution] |
+| 5   | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    |[Remove Duplicates from Sorted Array Solution] |
+| 6   | 49   | [Group Anagrams]              |	[Medium]	|                    |[Group Anagrams Solution] |
+| 7   | 122  | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    |[Best Time to Buy and Sell Stock II Solution] |
+| 8   | 141  | [Linked List Cycle]              |	[Easy]	|                    |[Linked List Cycle Solution] |
+| 9   | 146  | [LRU Cache]              |	[Medium]	|                    |[LRU Cache Solution] |
+| 10  | 155  | [Min Stack]              |	[Medium]	|                    |[Min Stack Solution] |
+| 11  | 238  | [Product of Array Except Self]              |	[Medium]	|                    |[Product of Array Except Self Solution] |
+| 12  | 242  | [Valid Anagram]              |	[Easy]	|                    |[Valid Anagram Solution] |
+| 13  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    |[Subarray Sum Equals K Solution] |
+| 14  | 189  | [Rotate Array]                                    |  [Medium] |                    |[Rotate Array Solution] |
+| 15  | 206  | [Reverse Linked List]                                    |  [Easy] |                    |[Reverse Linked List Solution] |
+| 16  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    |[Missing Element in Sorted Array Solution] |
 
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Remove Duplicates from Sorted Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_duplicates_from_sorted_array/solution.py
@@ -37,7 +42,18 @@ Leetcode practice in Python
 [Group Anagrams Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/group_anagrams/solution.py
 [Product of Array Except Self]: https://leetcode.com/problems/product-of-array-except-self
 [Product of Array Except Self Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/product_of_array_except_self/solution.py
-
+[Reverse Linked List]: https://leetcode.com/problems/reverse-linked-list
+[Reverse Linked List Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/reverse_linked_list/solution.py
+[Merge Two Sorted Lists]: https://leetcode.com/problems/merge-two-sorted-lists
+[Merge Two Sorted Lists Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/merge_two_sorted_lists/solution.py
+[Linked List Cycle]: https://leetcode.com/problems/linked-list-cycle
+[Linked List Cycle Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/linked_list_cycle/solution.py
+[Min Stack]: https://leetcode.com/problems/min-stack
+[Min Stack Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/min_stack/solution.py
+[Valid Parentheses]: https://leetcode.com/problems/valid-parentheses
+[Valid Parentheses Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/valid_anagram/solution.py
+[LRU Cache]: https://leetcode.com/problems/lru-cache
+[LRU Cache Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/lru_cache/solution.py
 
 [Easy]: https://github.com/robinali/leetcode/tree/main/src/easy
 [Medium]: https://github.com/robinali/leetcode/tree/main/src/medium
@@ -45,3 +61,4 @@ Leetcode practice in Python
 
 Reference:
 * https://leetcode-cn.com/
+* https://leetcode.com/
