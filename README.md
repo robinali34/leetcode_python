@@ -3,24 +3,29 @@ Leetcode practice in Python
 
 
 
-| Idx |      | [Google top questions]                                           |Difficulty|Wiki                |Solution                 |
-|-----|------| ---------------------------------------------------------------- | -------- |------------------- |-------------------------|
-| 1   | 1    | [Two Sum]              |	[Easy]	|                    |[Two Sum Solution] |
-| 2   | 3    | [Longest Substring Without Repeating Characters]              |	[Medium]	|                    |[Longest Substring Without Repeating Characters Solution] |
-| 3   | 20   | [Valid Parentheses]              |	[Easy]	|                    |[Valid Parentheses Solution] |
-| 4   | 21   | [Merge Two Sorted Lists]              |	[Easy]	|                    |[Merge Two Sorted Lists Solution] |
-| 5   | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    |[Remove Duplicates from Sorted Array Solution] |
-| 6   | 49   | [Group Anagrams]              |	[Medium]	|                    |[Group Anagrams Solution] |
-| 7   | 122  | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    |[Best Time to Buy and Sell Stock II Solution] |
-| 8   | 141  | [Linked List Cycle]              |	[Easy]	|                    |[Linked List Cycle Solution] |
-| 9   | 146  | [LRU Cache]              |	[Medium]	|                    |[LRU Cache Solution] |
-| 10  | 155  | [Min Stack]              |	[Medium]	|                    |[Min Stack Solution] |
-| 11  | 238  | [Product of Array Except Self]              |	[Medium]	|                    |[Product of Array Except Self Solution] |
-| 12  | 242  | [Valid Anagram]              |	[Easy]	|                    |[Valid Anagram Solution] |
-| 13  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    |[Subarray Sum Equals K Solution] |
-| 14  | 189  | [Rotate Array]                                    |  [Medium] |                    |[Rotate Array Solution] |
-| 15  | 206  | [Reverse Linked List]                                    |  [Easy] |                    |[Reverse Linked List Solution] |
-| 16  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    |[Missing Element in Sorted Array Solution] |
+| Idx |      | [Google top questions]                                           |Difficulty|Wiki                | Solution                                                  |
+|-----|------| ---------------------------------------------------------------- | -------- |------------------- |-----------------------------------------------------------|
+| 1   | 1    | [Two Sum]              |	[Easy]	|                    | [Two Sum Solution]                                        |
+| 2   | 3    | [Longest Substring Without Repeating Characters]              |	[Medium]	|                    | [Longest Substring Without Repeating Characters Solution] |
+| 3   | 20   | [Valid Parentheses]              |	[Easy]	|                    | [Valid Parentheses Solution]                              |
+| 4   | 21   | [Merge Two Sorted Lists]              |	[Easy]	|                    | [Merge Two Sorted Lists Solution]                         |
+| 5   | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    | [Remove Duplicates from Sorted Array Solution]            |
+| 6   | 49   | [Group Anagrams]              |	[Medium]	|                    | [Group Anagrams Solution]                                 |
+| 7   | 100  | [Same Tree]              |	[Easy]	|                    | [Same Tree Solution]             |
+| 8   | 104  | [Maximum Depth of Binary Tree]              |	[Easy]	|                    | [Maximum Depth of Binary Tree Solution]             |
+| 9   | 122  | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    | [Best Time to Buy and Sell Stock II Solution]             |
+| 10  | 141  | [Linked List Cycle]              |	[Easy]	|                    | [Linked List Cycle Solution]                              |
+| 11  | 146  | [LRU Cache]              |	[Medium]	|                    | [LRU Cache Solution]                                      |
+| 12  | 155  | [Min Stack]              |	[Medium]	|                    | [Min Stack Solution]                                      |
+| 13  | 226  | [Invert Binary Tree]              |	[Medium]	|                    | [Invert Binary Tree Solution]                |
+| 14  | 236  | [Lowest Common Ancestor of a Binary Tree]              |	[Medium]	|                    | [Lowest Common Ancestor of a Binary Tree Solution]                |
+| 15  | 238  | [Product of Array Except Self]              |	[Medium]	|                    | [Product of Array Except Self Solution]                   |
+| 16  | 242  | [Valid Anagram]              |	[Easy]	|                    | [Valid Anagram Solution]                                  |
+| 17  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    | [Subarray Sum Equals K Solution]                          |
+| 18  | 189  | [Rotate Array]                                    |  [Medium] |                    | [Rotate Array Solution]                                   |
+| 19  | 206  | [Reverse Linked List]                                    |  [Easy] |                    | [Reverse Linked List Solution]                            |
+| 20  | 543  | [Diameter of Binary Tree]                                    |  [Medium] |                    | [Diameter of Binary Tree Solution]                        |
+| 21  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    | [Missing Element in Sorted Array Solution]                |
 
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Remove Duplicates from Sorted Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_duplicates_from_sorted_array/solution.py
@@ -54,6 +59,18 @@ Leetcode practice in Python
 [Valid Parentheses Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/valid_anagram/solution.py
 [LRU Cache]: https://leetcode.com/problems/lru-cache
 [LRU Cache Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/lru_cache/solution.py
+[Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree
+[Maximum Depth of Binary Tree Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/maximum_depth_of_binary_tree/solution.py
+[Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree
+[Invert Binary Tree Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/invert_binary_tree/solution.py
+[Same Tree]: https://leetcode.com/problems/same-tree
+[Same Tree Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/same_tree/solution.py
+[Binary Tree Level Order Traversal]: https://leetcode.com/problems/binary-tree-level-order-traversal
+[Binary Tree Level Order Traversal Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/binary_tree_level_order_traversal/solution.py
+[Diameter of Binary Tree]: https://leetcode.com/problems/diameter-of-binary-tree
+[Diameter of Binary Tree Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/diameter_of_binary_tree/solution.py
+[Lowest Common Ancestor of a Binary Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+[Lowest Common Ancestor of a Binary Tree Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/lowest_common_ancestor_of_a_binary_tree/solution.py
 
 [Easy]: https://github.com/robinali/leetcode/tree/main/src/easy
 [Medium]: https://github.com/robinali/leetcode/tree/main/src/medium
