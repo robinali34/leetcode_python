@@ -1,5 +1,5 @@
 import unittest
-from src.easy.best_time_to_buy_and_sell_stock_ii.solution import Solution
+from src.medium.best_time_to_buy_and_sell_stock_ii.solution import Solution
 
 class TestMaxProfit(unittest.TestCase):
     def test_maxProfit(self):

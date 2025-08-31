@@ -21,17 +21,24 @@ Leetcode practice in Python
 | 14  | 146  | [LRU Cache]              |	[Medium]	|                    | [LRU Cache Solution]                                      |
 | 15  | 155  | [Min Stack]              |	[Medium]	|                    | [Min Stack Solution]                                      |
 | 16  | 189  | [Rotate Array]                                    |  [Medium] |                    | [Rotate Array Solution]                                   |
-| 17  | 200  | [Number of Islands]              |	[Medium]	|                    | [Number of Islands Solution]                              |
-| 18  | 206  | [Reverse Linked List]                                    |  [Easy] |                    | [Reverse Linked List Solution]                            |
-| 19  | 207  | [Course Schedule]              |	[Medium]	|                    | [Course Schedule Solution]                                |
-| 20  | 226  | [Invert Binary Tree]              |	[Easy]	|                    | [Invert Binary Tree Solution]                |
-| 21  | 230  | [Kth Smallest Element in a BST]              |	[Medium]	|                    | [Kth Smallest Element in a BST Solution]                  |
-| 22  | 236  | [Lowest Common Ancestor of a Binary Tree]              |	[Medium]	|                    | [Lowest Common Ancestor of a Binary Tree Solution]                |
-| 23  | 238  | [Product of Array Except Self]              |	[Medium]	|                    | [Product of Array Except Self Solution]                   |
-| 24  | 242  | [Valid Anagram]              |	[Easy]	|                    | [Valid Anagram Solution]                                  |
-| 25  | 543  | [Diameter of Binary Tree]                                    |  [Easy] |                    | [Diameter of Binary Tree Solution]                        |
-| 26  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    | [Subarray Sum Equals K Solution]                          |
-| 27  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    | [Missing Element in Sorted Array Solution]                |
+| 17  | 198  | [House Robber]              |	[Medium]	|                    | [House Robber Solution]                                   |
+| 18  | 200  | [Number of Islands]              |	[Medium]	|                    | [Number of Islands Solution]                              |
+| 19  | 206  | [Reverse Linked List]                                    |  [Easy] |                    | [Reverse Linked List Solution]                            |
+| 20  | 207  | [Course Schedule]              |	[Medium]	|                    | [Course Schedule Solution]                                |
+| 21  | 213  | [House Robber II]              |	[Medium]	|                    | [House Robber II Solution]                                |
+| 22  | 226  | [Invert Binary Tree]              |	[Easy]	|                    | [Invert Binary Tree Solution]                |
+| 23  | 230  | [Kth Smallest Element in a BST]              |	[Medium]	|                    | [Kth Smallest Element in a BST Solution]                  |
+| 24  | 236  | [Lowest Common Ancestor of a Binary Tree]              |	[Medium]	|                    | [Lowest Common Ancestor of a Binary Tree Solution]                |
+| 25  | 238  | [Product of Array Except Self]              |	[Medium]	|                    | [Product of Array Except Self Solution]                   |
+| 26  | 242  | [Valid Anagram]              |	[Easy]	|                    | [Valid Anagram Solution]                                  |
+| 27  | 509  | [Fibonacci Number]              |	[Easy]	|                    | [Fibonacci Number Solution]                               |
+| 28  | 543  | [Diameter of Binary Tree]                                    |  [Easy] |                    | [Diameter of Binary Tree Solution]                        |
+| 29  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    | [Subarray Sum Equals K Solution]                          |
+| 30  | 740  | [Delete and Earn]              |	[Medium]	|                    | [Delete and Earn Solution]                                |
+| 31  | 746  | [Min Cost Climbing Stairs]              |	[Easy]	|                    | [Min Cost Climbing Stairs Solution]                       |
+| 32  | 1137 | [Nth Tribonacci Number]              |	[Easy]	|                    | [Nth Tribonacci Number Solution]                          |
+| 33  | 1473 | [Final Price With a Special Discount in a Shop]              |	[Easy]	|                    | [Final Price With a Special Discount in a Shop Solution]  |
+| 34  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    | [Missing Element in Sorted Array Solution]                |
 
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Remove Duplicates from Sorted Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_duplicates_from_sorted_array/solution.py
@@ -87,6 +94,20 @@ Leetcode practice in Python
 [Course Schedule Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/course_schedule/solution.py
 [Validate Binary Search Tree]: https://leetcode.com/problems/validate-binary-search-tree/
 [Validate Binary Search Tree Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/validate_binary_search_tree/solution.py
+[House Robber]: https://leetcode.com/problems/house-robber/
+[House Robber Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/house_robber/solution.py
+[House Robber II]: https://leetcode.com/problems/house-robber-ii/
+[House Robber II Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/house_robberII/solution.py
+[Fibonacci Number]: https://leetcode.com/problems/fibonacci-number/
+[Fibonacci Number Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/fibonacci_number/solution.py
+[Delete and Earn]: https://leetcode.com/problems/delete-and-earn/
+[Delete and Earn Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/delete_and_earn/solution.py
+[Min Cost Climbing Stairs]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[Min Cost Climbing Stairs Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/min_cost_climbing_stairs/solution.py
+[Nth Tribonacci Number]: https://leetcode.com/problems/n-th-tribonacci-number/
+[Nth Tribonacci Number Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/nth_tribonacci_number/solution.py
+[Final Price With a Special Discount in a Shop]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+[Final Price With a Special Discount in a Shop Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/final_price_with_a_special_discount_in_a_shop/solution.py
 
 [Easy]: https://github.com/robinali34/leetcode_python/tree/main/src/easy
 [Medium]: https://github.com/robinali34/leetcode_python/tree/main/src/medium

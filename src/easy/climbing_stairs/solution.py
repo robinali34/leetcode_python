@@ -7,11 +7,26 @@
 # Reference : https://leetcode.com/problems/climbing-stairs
 
 from typing import List
-from collections import deque
+from functools import cache
 
 class Solution(object):
 
+    @cache
     def climbStairs(self, n: int) -> int:
+        if n <= 1: return 1
+        return self.climbStairs(n - 1) + self.climbStairs(n - 2)
+
+    def climbStairs1(self, n: int) -> int:
+        if n == 1:
+            return 1
+        dp = [0 for _ in range(n + 1)]
+        dp[1] = 1
+        dp[2] = 2
+        for i in range(3, n + 1):
+            dp[i] = dp[i - 1] + dp[i - 2]
+        return dp[n]
+
+    def climbStairs2(self, n: int) -> int:
         memo = [0] * (n + 1)
         return self.climb_stairs(0, n, memo)
 
@@ -25,21 +40,17 @@ class Solution(object):
         memo[i] = self.climb_stairs(i+1, n, memo) + self.climb_stairs(i+2, n, memo)
         return memo[i]
 
-    def climbStairs2(self, n: int) -> int:
-        if n == 1:
-            return 1
-        dp = [0 for _ in range(n + 1)]
-        dp[1] = 1
-        dp[2] = 2
-        for i in range(3, n + 1):
-            dp[i] = dp[i - 1] + dp[i - 2]
-        return dp[n]
-
 if __name__ == '__main__':
     solution = Solution()
+
     rtn = solution.climbStairs(2)
     print(2 == rtn)
     rtn = solution.climbStairs(3)
+    print(3 == rtn)
+
+    rtn = solution.climbStairs1(2)
+    print(2 == rtn)
+    rtn = solution.climbStairs1(3)
     print(3 == rtn)
 
     rtn = solution.climbStairs2(2)
