@@ -10,20 +10,21 @@ from typing import List
 from collections import Counter
 
 class Solution:
-    # Time Complexity: O(n)
-    # Space Complexity: O(1)
+
     def lengthOfLongestSubstring(self, s: str) -> int:
-        chars = [None] * 128
-        left = right = res = 0
-        while right < len(s):
-            r = s[right]
-            idx = chars[ord(r)]
-            if idx is not None and left <= idx < right:
-                left = idx + 1
-            res = max(res, right - left + 1)
-            chars[ord(r)] = right
-            right += 1
-        return res
+        max_len, hashmap = 0, {}
+        start = 0
+        for end in range(len(s)):
+            hashmap[s[end]] = hashmap.get(s[end], 0) + 1
+            if len(hashmap) == end - start + 1:
+                max_len = max(max_len, end- start + 1)
+            while end - start + 1 > len(hashmap):
+                head = s[start]
+                hashmap[head] -= 1
+                if hashmap[head] == 0:
+                    del hashmap[head]
+                start += 1
+        return max_len
 
     def lengthOfLongestSubstring1(self, s: str) -> int:
         def check(start, end):
@@ -69,6 +70,21 @@ class Solution:
             ans = max(ans, j - i + 1)
             charToNextIdx[s[j]] = j + 1
         return ans
+        
+    # Time Complexity: O(n)
+    # Space Complexity: O(1)
+    def lengthOfLongestSubstring4(self, s: str) -> int:
+        chars = [None] * 128
+        left = right = res = 0
+        while right < len(s):
+            r = s[right]
+            idx = chars[ord(r)]
+            if idx is not None and left <= idx < right:
+                left = idx + 1
+            res = max(res, right - left + 1)
+            chars[ord(r)] = right
+            right += 1
+        return res
 
 if __name__ == '__main__':
     solution = Solution()
@@ -102,3 +118,9 @@ if __name__ == '__main__':
     rtn = solution.lengthOfLongestSubstring3("pwwkew")
     print(3 == rtn)
 
+    rtn = solution.lengthOfLongestSubstring4("abcabcbb")
+    print(3 == rtn)
+    rtn = solution.lengthOfLongestSubstring4("bbbbb")
+    print(1 == rtn)
+    rtn = solution.lengthOfLongestSubstring4("pwwkew")
+    print(3 == rtn)

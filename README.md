@@ -7,38 +7,46 @@ Leetcode practice in Python
 |-----|------| ---------------------------------------------------------------- | -------- |------------------- |-----------------------------------------------------------|
 | 1   | 1    | [Two Sum]              |	[Easy]	|                    | [Two Sum Solution]                                        |
 | 2   | 3    | [Longest Substring Without Repeating Characters]              |	[Medium]	|                    | [Longest Substring Without Repeating Characters Solution] |
-| 3   | 20   | [Valid Parentheses]              |	[Easy]	|                    | [Valid Parentheses Solution]                              |
-| 4   | 21   | [Merge Two Sorted Lists]              |	[Easy]	|                    | [Merge Two Sorted Lists Solution]                         |
-| 5   | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    | [Remove Duplicates from Sorted Array Solution]            |
-| 6   | 49   | [Group Anagrams]              |	[Medium]	|                    | [Group Anagrams Solution]                                 |
-| 7   | 70   | [Climbing Stairs]              |	[Easy]	|                    | [Climbing Stairs Solution]                                |
-| 8   | 98   | [Validate Binary Search Tree]              |	[Medium]	|                    | [Validate Binary Search Tree Solution]                    |
-| 9   | 100  | [Same Tree]              |	[Easy]	|                    | [Same Tree Solution]             |
-| 10  | 102  | [Binary Tree Level Order Traversal]              |	[Medium]	|                    | [Binary Tree Level Order Traversal Solution]              |
-| 11  | 104  | [Maximum Depth of Binary Tree]              |	[Easy]	|                    | [Maximum Depth of Binary Tree Solution]             |
-| 12  | 122  | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    | [Best Time to Buy and Sell Stock II Solution]             |
-| 13  | 141  | [Linked List Cycle]              |	[Easy]	|                    | [Linked List Cycle Solution]                              |
-| 14  | 146  | [LRU Cache]              |	[Medium]	|                    | [LRU Cache Solution]                                      |
-| 15  | 155  | [Min Stack]              |	[Medium]	|                    | [Min Stack Solution]                                      |
-| 16  | 189  | [Rotate Array]                                    |  [Medium] |                    | [Rotate Array Solution]                                   |
-| 17  | 198  | [House Robber]              |	[Medium]	|                    | [House Robber Solution]                                   |
-| 18  | 200  | [Number of Islands]              |	[Medium]	|                    | [Number of Islands Solution]                              |
-| 19  | 206  | [Reverse Linked List]                                    |  [Easy] |                    | [Reverse Linked List Solution]                            |
-| 20  | 207  | [Course Schedule]              |	[Medium]	|                    | [Course Schedule Solution]                                |
-| 21  | 213  | [House Robber II]              |	[Medium]	|                    | [House Robber II Solution]                                |
-| 22  | 226  | [Invert Binary Tree]              |	[Easy]	|                    | [Invert Binary Tree Solution]                |
-| 23  | 230  | [Kth Smallest Element in a BST]              |	[Medium]	|                    | [Kth Smallest Element in a BST Solution]                  |
-| 24  | 236  | [Lowest Common Ancestor of a Binary Tree]              |	[Medium]	|                    | [Lowest Common Ancestor of a Binary Tree Solution]                |
-| 25  | 238  | [Product of Array Except Self]              |	[Medium]	|                    | [Product of Array Except Self Solution]                   |
-| 26  | 242  | [Valid Anagram]              |	[Easy]	|                    | [Valid Anagram Solution]                                  |
-| 27  | 509  | [Fibonacci Number]              |	[Easy]	|                    | [Fibonacci Number Solution]                               |
-| 28  | 543  | [Diameter of Binary Tree]                                    |  [Easy] |                    | [Diameter of Binary Tree Solution]                        |
-| 29  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    | [Subarray Sum Equals K Solution]                          |
-| 30  | 740  | [Delete and Earn]              |	[Medium]	|                    | [Delete and Earn Solution]                                |
-| 31  | 746  | [Min Cost Climbing Stairs]              |	[Easy]	|                    | [Min Cost Climbing Stairs Solution]                       |
-| 32  | 1137 | [Nth Tribonacci Number]              |	[Easy]	|                    | [Nth Tribonacci Number Solution]                          |
-| 33  | 1473 | [Final Price With a Special Discount in a Shop]              |	[Easy]	|                    | [Final Price With a Special Discount in a Shop Solution]  |
-| 34  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    | [Missing Element in Sorted Array Solution]                |
+| 3   | 15   | [3 Sum]              |	[Medium]	|                    | [3 Sum Solution]                                          |
+| 4   | 20   | [Valid Parentheses]              |	[Easy]	|                    | [Valid Parentheses Solution]                              |
+| 5   | 21   | [Merge Two Sorted Lists]              |	[Easy]	|                    | [Merge Two Sorted Lists Solution]                         |
+| 6   | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    | [Remove Duplicates from Sorted Array Solution]            |
+| 7   | 49   | [Group Anagrams]              |	[Medium]	|                    | [Group Anagrams Solution]                                 |
+| 8   | 70   | [Climbing Stairs]              |	[Easy]	|                    | [Climbing Stairs Solution]                                |
+| 9   | 98   | [Validate Binary Search Tree]              |	[Medium]	|                    | [Validate Binary Search Tree Solution]                    |
+| 10  | 100  | [Same Tree]              |	[Easy]	|                    | [Same Tree Solution]             |
+| 11  | 102  | [Binary Tree Level Order Traversal]              |	[Medium]	|                    | [Binary Tree Level Order Traversal Solution]              |
+| 12  | 104  | [Maximum Depth of Binary Tree]              |	[Easy]	|                    | [Maximum Depth of Binary Tree Solution]             |
+| 13  | 122  | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    | [Best Time to Buy and Sell Stock II Solution]             |
+| 14  | 141  | [Linked List Cycle]              |	[Easy]	|                    | [Linked List Cycle Solution]                              |
+| 15  | 146  | [LRU Cache]              |	[Medium]	|                    | [LRU Cache Solution]                                      |
+| 16  | 155  | [Min Stack]              |	[Medium]	|                    | [Min Stack Solution]                                      |
+| 17  | 159  | [Longest Substring with At Most Two Distinct Characters]              |	[Medium]	|                    | [Longest Substring with At Most Two Distinct Characters Solution] |
+| 18  | 189  | [Rotate Array]                                    |  [Medium] |                    | [Rotate Array Solution]                                   |
+| 19  | 198  | [House Robber]              |	[Medium]	|                    | [House Robber Solution]                                   |
+| 20  | 200  | [Number of Islands]              |	[Medium]	|                    | [Number of Islands Solution]                              |
+| 21  | 206  | [Reverse Linked List]                                    |  [Easy] |                    | [Reverse Linked List Solution]                            |
+| 22  | 207  | [Course Schedule]              |	[Medium]	|                    | [Course Schedule Solution]                                |
+| 23  | 209  | [Minimum Size Subarray Sum]              |	[Medium]	|                    | [Minimum Size Subarray Sum Solution]                      |
+| 24  | 213  | [House Robber II]              |	[Medium]	|                    | [House Robber II Solution]                                |
+| 25  | 226  | [Invert Binary Tree]              |	[Easy]	|                    | [Invert Binary Tree Solution]                |
+| 26  | 230  | [Kth Smallest Element in a BST]              |	[Medium]	|                    | [Kth Smallest Element in a BST Solution]                  |
+| 27  | 236  | [Lowest Common Ancestor of a Binary Tree]              |	[Medium]	|                    | [Lowest Common Ancestor of a Binary Tree Solution]                |
+| 28  | 238  | [Product of Array Except Self]              |	[Medium]	|                    | [Product of Array Except Self Solution]                   |
+| 29  | 242  | [Valid Anagram]              |	[Easy]	|                    | [Valid Anagram Solution]                                  |
+| 30  | 438  | [Find All Anagrams in a String]              |	[Medium]	|                    | [Find All Anagrams in a String Solution]                  |
+| 31  | 487  | [Max Consecutive Ones II]              |	[Medium]	|                    | [Max Consecutive Ones II Solution]                        |
+| 32  | 509  | [Fibonacci Number]              |	[Easy]	|                    | [Fibonacci Number Solution]                               |
+| 33  | 543  | [Diameter of Binary Tree]                                    |  [Easy] |                    | [Diameter of Binary Tree Solution]                        |
+| 34  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    | [Subarray Sum Equals K Solution]                          |
+| 35  | 567  | [Permutation in String]              |	[Medium]	|                    | [Permutation in String Solution]                          |
+| 36  | 643  | [Maximum Average Subarray I]              |	[Easy]	|                    | [Maximum Average Subarray I Solution]                     |
+| 37  | 740  | [Delete and Earn]              |	[Medium]	|                    | [Delete and Earn Solution]                                |
+| 38  | 746  | [Min Cost Climbing Stairs]              |	[Easy]	|                    | [Min Cost Climbing Stairs Solution]                       |
+| 39  | 1137 | [Nth Tribonacci Number]              |	[Easy]	|                    | [Nth Tribonacci Number Solution]                          |
+| 40  | 1473 | [Final Price With a Special Discount in a Shop]              |	[Easy]	|                    | [Final Price With a Special Discount in a Shop Solution]  |
+| 41  | 1695 | [Maximum Erasure Value]              |	[Medium]	|                    | [Maximum Erasure Value Solution]                           |
+| 42  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    | [Missing Element in Sorted Array Solution]                |
 
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Remove Duplicates from Sorted Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_duplicates_from_sorted_array/solution.py
@@ -108,6 +116,22 @@ Leetcode practice in Python
 [Nth Tribonacci Number Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/nth_tribonacci_number/solution.py
 [Final Price With a Special Discount in a Shop]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [Final Price With a Special Discount in a Shop Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/final_price_with_a_special_discount_in_a_shop/solution.py
+[Maximum Erasure Value]: https://leetcode.com/problems/maximum-erasure-value/
+[Maximum Erasure Value Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/maximum_erasure_value/solution.py
+[3 Sum]: https://leetcode.com/problems/3sum/
+[3 Sum Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/3_sum/solution.py
+[Longest Substring with At Most Two Distinct Characters]: https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+[Longest Substring with At Most Two Distinct Characters Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/longest_substring_with_at_most_two_distinct_characters/solution.py
+[Minimum Size Subarray Sum]: https://leetcode.com/problems/minimum-size-subarray-sum/
+[Minimum Size Subarray Sum Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/minimum_size_subarray_sum/solution.py
+[Find All Anagrams in a String]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+[Find All Anagrams in a String Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/find_all_anagrams_in_a_string/solution.py
+[Max Consecutive Ones II]: https://leetcode.com/problems/max-consecutive-ones-ii/
+[Max Consecutive Ones II Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/max_consecutive_onesII/solution.py
+[Permutation in String]: https://leetcode.com/problems/permutation-in-string/
+[Permutation in String Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/premutation_in_string/solution.py
+[Maximum Average Subarray I]: https://leetcode.com/problems/maximum-average-subarray-i/
+[Maximum Average Subarray I Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/maximum_average_subarrayI/solution.py
 
 [Easy]: https://github.com/robinali34/leetcode_python/tree/main/src/easy
 [Medium]: https://github.com/robinali34/leetcode_python/tree/main/src/medium
