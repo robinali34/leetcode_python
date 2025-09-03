@@ -28,9 +28,9 @@ class Solution(object):
  
 if __name__ == '__main__':
     solution = Solution()
-    rtn = solution.minSubArrayLen(7, [2,3,1,2,4,3])
+    rtn = solution.minSubArrayLen(7, [2, 3, 1, 2, 4, 3])
     print(2 == rtn)
-    rtn = solution.minSubArrayLen(4, [1,4,4])
+    rtn = solution.minSubArrayLen(4, [1, 4, 4])
     print(1 == rtn)
-    rtn = solution.minSubArrayLen(11, [1,1,1,1,1,1,1,1])
+    rtn = solution.minSubArrayLen(11, [1, 1, 1, 1, 1, 1, 1, 1])
     print(0 == rtn)

@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 # -*- coding:utf8 -*-
 
-# Copyright 2021 Robina Li. BSD 3-Clause License All Rights Reserved.
+# Copyright 2025 Robina Li. BSD 3-Clause License All Rights Reserved.
 # @file : solution.py
 # @desc : Solution for Leetcode
 # Reference : https://leetcode.com/problems/course-schedule

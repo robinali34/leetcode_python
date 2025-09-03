@@ -7,46 +7,56 @@ Leetcode practice in Python
 |-----|------| ---------------------------------------------------------------- | -------- |------------------- |-----------------------------------------------------------|
 | 1   | 1    | [Two Sum]              |	[Easy]	|                    | [Two Sum Solution]                                        |
 | 2   | 3    | [Longest Substring Without Repeating Characters]              |	[Medium]	|                    | [Longest Substring Without Repeating Characters Solution] |
-| 3   | 15   | [3 Sum]              |	[Medium]	|                    | [3 Sum Solution]                                          |
-| 4   | 20   | [Valid Parentheses]              |	[Easy]	|                    | [Valid Parentheses Solution]                              |
-| 5   | 21   | [Merge Two Sorted Lists]              |	[Easy]	|                    | [Merge Two Sorted Lists Solution]                         |
-| 6   | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    | [Remove Duplicates from Sorted Array Solution]            |
-| 7   | 49   | [Group Anagrams]              |	[Medium]	|                    | [Group Anagrams Solution]                                 |
-| 8   | 70   | [Climbing Stairs]              |	[Easy]	|                    | [Climbing Stairs Solution]                                |
-| 9   | 98   | [Validate Binary Search Tree]              |	[Medium]	|                    | [Validate Binary Search Tree Solution]                    |
-| 10  | 100  | [Same Tree]              |	[Easy]	|                    | [Same Tree Solution]             |
-| 11  | 102  | [Binary Tree Level Order Traversal]              |	[Medium]	|                    | [Binary Tree Level Order Traversal Solution]              |
-| 12  | 104  | [Maximum Depth of Binary Tree]              |	[Easy]	|                    | [Maximum Depth of Binary Tree Solution]             |
-| 13  | 122  | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    | [Best Time to Buy and Sell Stock II Solution]             |
-| 14  | 141  | [Linked List Cycle]              |	[Easy]	|                    | [Linked List Cycle Solution]                              |
-| 15  | 146  | [LRU Cache]              |	[Medium]	|                    | [LRU Cache Solution]                                      |
-| 16  | 155  | [Min Stack]              |	[Medium]	|                    | [Min Stack Solution]                                      |
-| 17  | 159  | [Longest Substring with At Most Two Distinct Characters]              |	[Medium]	|                    | [Longest Substring with At Most Two Distinct Characters Solution] |
-| 18  | 189  | [Rotate Array]                                    |  [Medium] |                    | [Rotate Array Solution]                                   |
-| 19  | 198  | [House Robber]              |	[Medium]	|                    | [House Robber Solution]                                   |
-| 20  | 200  | [Number of Islands]              |	[Medium]	|                    | [Number of Islands Solution]                              |
-| 21  | 206  | [Reverse Linked List]                                    |  [Easy] |                    | [Reverse Linked List Solution]                            |
-| 22  | 207  | [Course Schedule]              |	[Medium]	|                    | [Course Schedule Solution]                                |
-| 23  | 209  | [Minimum Size Subarray Sum]              |	[Medium]	|                    | [Minimum Size Subarray Sum Solution]                      |
-| 24  | 213  | [House Robber II]              |	[Medium]	|                    | [House Robber II Solution]                                |
-| 25  | 226  | [Invert Binary Tree]              |	[Easy]	|                    | [Invert Binary Tree Solution]                |
-| 26  | 230  | [Kth Smallest Element in a BST]              |	[Medium]	|                    | [Kth Smallest Element in a BST Solution]                  |
-| 27  | 236  | [Lowest Common Ancestor of a Binary Tree]              |	[Medium]	|                    | [Lowest Common Ancestor of a Binary Tree Solution]                |
-| 28  | 238  | [Product of Array Except Self]              |	[Medium]	|                    | [Product of Array Except Self Solution]                   |
-| 29  | 242  | [Valid Anagram]              |	[Easy]	|                    | [Valid Anagram Solution]                                  |
-| 30  | 438  | [Find All Anagrams in a String]              |	[Medium]	|                    | [Find All Anagrams in a String Solution]                  |
-| 31  | 487  | [Max Consecutive Ones II]              |	[Medium]	|                    | [Max Consecutive Ones II Solution]                        |
-| 32  | 509  | [Fibonacci Number]              |	[Easy]	|                    | [Fibonacci Number Solution]                               |
-| 33  | 543  | [Diameter of Binary Tree]                                    |  [Easy] |                    | [Diameter of Binary Tree Solution]                        |
-| 34  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    | [Subarray Sum Equals K Solution]                          |
-| 35  | 567  | [Permutation in String]              |	[Medium]	|                    | [Permutation in String Solution]                          |
-| 36  | 643  | [Maximum Average Subarray I]              |	[Easy]	|                    | [Maximum Average Subarray I Solution]                     |
-| 37  | 740  | [Delete and Earn]              |	[Medium]	|                    | [Delete and Earn Solution]                                |
-| 38  | 746  | [Min Cost Climbing Stairs]              |	[Easy]	|                    | [Min Cost Climbing Stairs Solution]                       |
-| 39  | 1137 | [Nth Tribonacci Number]              |	[Easy]	|                    | [Nth Tribonacci Number Solution]                          |
-| 40  | 1473 | [Final Price With a Special Discount in a Shop]              |	[Easy]	|                    | [Final Price With a Special Discount in a Shop Solution]  |
-| 41  | 1695 | [Maximum Erasure Value]              |	[Medium]	|                    | [Maximum Erasure Value Solution]                           |
-| 42  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    | [Missing Element in Sorted Array Solution]                |
+| 3   | 11   | [Container With Most Water]              |	[Medium]	|                    | [Container With Most Water Solution]                      |
+| 4   | 15   | [3 Sum]              |	[Medium]	|                    | [3 Sum Solution]                                          |
+| 5   | 16   | [3 Sum Closest]              |	[Medium]	|                    | [3 Sum Closest Solution]                                  |
+| 6   | 20   | [Valid Parentheses]              |	[Easy]	|                    | [Valid Parentheses Solution]                              |
+| 7   | 21   | [Merge Two Sorted Lists]              |	[Easy]	|                    | [Merge Two Sorted Lists Solution]                         |
+| 8   | 26   | [Remove Duplicates from Sorted Array]              |	[Easy]	|                    | [Remove Duplicates from Sorted Array Solution]            |
+| 9   | 27   | [Remove Element]              |	[Easy]	|                    | [Remove Element Solution]                                 |
+| 10  | 42   | [Trapping Rain Water]              |	[Hard]	|                    | [Trapping Rain Water Solution]                            |
+| 11  | 49   | [Group Anagrams]              |	[Medium]	|                    | [Group Anagrams Solution]                                 |
+| 12  | 70   | [Climbing Stairs]              |	[Easy]	|                    | [Climbing Stairs Solution]                                |
+| 13  | 76   | [Minimum Window Substring]              |	[Hard]	|                    | [Minimum Window Substring Solution]                       |
+| 14  | 98   | [Validate Binary Search Tree]              |	[Medium]	|                    | [Validate Binary Search Tree Solution]                    |
+| 15  | 100  | [Same Tree]              |	[Easy]	|                    | [Same Tree Solution]             |
+| 16  | 102  | [Binary Tree Level Order Traversal]              |	[Medium]	|                    | [Binary Tree Level Order Traversal Solution]              |
+| 17  | 104  | [Maximum Depth of Binary Tree]              |	[Easy]	|                    | [Maximum Depth of Binary Tree Solution]             |
+| 18  | 122  | [Best Time to Buy and Sell Stock II]              |	[Easy]	|                    | [Best Time to Buy and Sell Stock II Solution]             |
+| 19  | 125  | [Valid Palindrome]              |	[Easy]	|                    | [Valid Palindrome Solution]                               |
+| 20  | 141  | [Linked List Cycle]              |	[Easy]	|                    | [Linked List Cycle Solution]                              |
+| 21  | 146  | [LRU Cache]              |	[Medium]	|                    | [LRU Cache Solution]                                      |
+| 22  | 155  | [Min Stack]              |	[Medium]	|                    | [Min Stack Solution]                                      |
+| 23  | 159  | [Longest Substring with At Most Two Distinct Characters]              |	[Medium]	|                    | [Longest Substring with At Most Two Distinct Characters Solution] |
+| 24  | 167  | [Two Sum II]              |	[Medium]	|                    | [Two Sum II Solution]                                     |
+| 25  | 173  | [Binary Search Tree Iterator]              |	[Medium]	|                    | [Binary Search Tree Iterator Solution]                    |
+| 26  | 189  | [Rotate Array]                                    |  [Medium] |                    | [Rotate Array Solution]                                   |
+| 27  | 198  | [House Robber]              |	[Medium]	|                    | [House Robber Solution]                                   |
+| 28  | 200  | [Number of Islands]              |	[Medium]	|                    | [Number of Islands Solution]                              |
+| 29  | 206  | [Reverse Linked List]                                    |  [Easy] |                    | [Reverse Linked List Solution]                            |
+| 30  | 207  | [Course Schedule]              |	[Medium]	|                    | [Course Schedule Solution]                                |
+| 31  | 209  | [Minimum Size Subarray Sum]              |	[Medium]	|                    | [Minimum Size Subarray Sum Solution]                      |
+| 32  | 213  | [House Robber II]              |	[Medium]	|                    | [House Robber II Solution]                                |
+| 33  | 226  | [Invert Binary Tree]              |	[Easy]	|                    | [Invert Binary Tree Solution]                |
+| 34  | 230  | [Kth Smallest Element in a BST]              |	[Medium]	|                    | [Kth Smallest Element in a BST Solution]                  |
+| 35  | 236  | [Lowest Common Ancestor of a Binary Tree]              |	[Medium]	|                    | [Lowest Common Ancestor of a Binary Tree Solution]                |
+| 36  | 238  | [Product of Array Except Self]              |	[Medium]	|                    | [Product of Array Except Self Solution]                   |
+| 37  | 242  | [Valid Anagram]              |	[Easy]	|                    | [Valid Anagram Solution]                                  |
+| 38  | 283  | [Move Zeroes]              |	[Easy]	|                    | [Move Zeroes Solution]                                    |
+| 39  | 438  | [Find All Anagrams in a String]              |	[Medium]	|                    | [Find All Anagrams in a String Solution]                  |
+| 40  | 487  | [Max Consecutive Ones II]              |	[Medium]	|                    | [Max Consecutive Ones II Solution]                        |
+| 41  | 509  | [Fibonacci Number]              |	[Easy]	|                    | [Fibonacci Number Solution]                               |
+| 42  | 543  | [Diameter of Binary Tree]                                    |  [Easy] |                    | [Diameter of Binary Tree Solution]                        |
+| 43  | 560  | [Subarray Sum Equals K]              |	[Medium]	|                    | [Subarray Sum Equals K Solution]                          |
+| 44  | 567  | [Permutation in String]              |	[Medium]	|                    | [Permutation in String Solution]                          |
+| 45  | 643  | [Maximum Average Subarray I]              |	[Easy]	|                    | [Maximum Average Subarray I Solution]                     |
+| 46  | 740  | [Delete and Earn]              |	[Medium]	|                    | [Delete and Earn Solution]                                |
+| 47  | 746  | [Min Cost Climbing Stairs]              |	[Easy]	|                    | [Min Cost Climbing Stairs Solution]                       |
+| 48  | 1137 | [Nth Tribonacci Number]              |	[Easy]	|                    | [Nth Tribonacci Number Solution]                          |
+| 49  | 1473 | [Final Price With a Special Discount in a Shop]              |	[Easy]	|                    | [Final Price With a Special Discount in a Shop Solution]  |
+| 50  | 1695 | [Maximum Erasure Value]              |	[Medium]	|                    | [Maximum Erasure Value Solution]                           |
+| 51  | 239  | [Sliding Window Maximum]              |	[Hard]	|                    | [Sliding Window Maximum Solution]                         |
+| 52  | 1060 | [Missing Element in Sorted Array]                                    |  [Medium] |                    | [Missing Element in Sorted Array Solution]                |
 
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Remove Duplicates from Sorted Array Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_duplicates_from_sorted_array/solution.py
@@ -120,6 +130,26 @@ Leetcode practice in Python
 [Maximum Erasure Value Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/maximum_erasure_value/solution.py
 [3 Sum]: https://leetcode.com/problems/3sum/
 [3 Sum Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/3_sum/solution.py
+[Container With Most Water]: https://leetcode.com/problems/container-with-most-water/
+[Container With Most Water Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/container_with_most_water/solution.py
+[3 Sum Closest]: https://leetcode.com/problems/3sum-closest/
+[3 Sum Closest Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/3_sum_closest/solution.py
+[Remove Element]: https://leetcode.com/problems/remove-element/
+[Remove Element Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_element/solution.py
+[Trapping Rain Water]: https://leetcode.com/problems/trapping-rain-water/
+[Trapping Rain Water Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/hard/trapping_rain_water/solution.py
+[Minimum Window Substring]: https://leetcode.com/problems/minimum-window-substring/
+[Minimum Window Substring Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/hard/minimum_window_substring/solution.py
+[Valid Palindrome]: https://leetcode.com/problems/valid-palindrome/
+[Valid Palindrome Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/valid_palindrome/solution.py
+[Two Sum II]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+[Two Sum II Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/two_sumII/solution.py
+[Binary Search Tree Iterator]: https://leetcode.com/problems/binary-search-tree-iterator/
+[Binary Search Tree Iterator Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/binary_search_tree_iterator/solution.py
+[Move Zeroes]: https://leetcode.com/problems/move-zeroes/
+[Move Zeroes Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/easy/move_zeroes/solution.py
+[Sliding Window Maximum]: https://leetcode.com/problems/sliding-window-maximum/
+[Sliding Window Maximum Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/hard/sliding_window_maximum/solution.py
 [Longest Substring with At Most Two Distinct Characters]: https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 [Longest Substring with At Most Two Distinct Characters Solution]: https://github.com/robinali34/leetcode_python/blob/main/src/medium/longest_substring_with_at_most_two_distinct_characters/solution.py
 [Minimum Size Subarray Sum]: https://leetcode.com/problems/minimum-size-subarray-sum/

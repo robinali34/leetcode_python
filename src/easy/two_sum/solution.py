@@ -37,6 +37,19 @@ class Solution(object):
                 return [i, hashmap[pair]]
 
         return []
+    
+    def twoSum3(self, nums: List[int], target: int) -> List[int]:
+        nums_with_idx = list(enumerate(nums))
+        nums_with_idx.sort(key=lambda x:x[1])
+        left, right = 0, len(nums) -1
+        while left < right:
+            total = nums_with_idx[left][1] + nums_with_idx[right][1]
+            if total == target:
+                return [nums_with_idx[left][0], nums_with_idx[right][0]]
+            elif total < target:
+                left += 1
+            else:
+                right -=1
 
 if __name__ == '__main__':
     solution = Solution()
@@ -60,4 +73,11 @@ if __name__ == '__main__':
     rtn = solution.twoSum2([3,2,4], 6)
     print([1,2] == rtn)
     rtn = solution.twoSum2([3,3], 6)
+    print([0,1] == rtn)
+
+    rtn = solution.twoSum3([2,7,11,15], 9)
+    print([0,1] == rtn)
+    rtn = solution.twoSum3([3,2,4], 6)
+    print([1,2] == rtn)
+    rtn = solution.twoSum3([3,3], 6)
     print([0,1] == rtn)

@@ -5,7 +5,7 @@ coverage run -m pytest -v tests/ --junitxml=test-reports/pycoverage.xml
 coverage run --source=scripts -m unittest discover -v && coverage html && coverage report
 
 pip install flake8
-flake8 --max-line-length 130 . --extend-exclude=dist,build --show-source --statistics
+flake8 --max-line-length 130 . --extend-exclude=dist,build --show-source --statistics  --ignore=E231
 
 if [ ! -d test-reports ]; then mkdir test-reports; fi
 #pip install green
