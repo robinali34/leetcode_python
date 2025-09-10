@@ -1,0 +1,734 @@
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>idx</th>
+      <th>leetcode_id</th>
+      <th>Problem Name</th>
+      <th>Difficulty</th>
+      <th>LeetCode URL</th>
+      <th>Solution URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/two-sum/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/two_sum/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3</td>
+      <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/longest_substring_without_repeating_characters/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>11</td>
+      <td><a href="https://leetcode.com/problems/container-with-most-water/">Container With Most Water</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/container-with-most-water/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/container_with_most_water/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>15</td>
+      <td><a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/3sum/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/3_sum/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>16</td>
+      <td><a href="https://leetcode.com/problems/3sum-closest/">3Sum Closest</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/3sum-closest/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/3_sum_closest/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>17</td>
+      <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Letter Combinations of a Phone Number</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/letter_combination_of_a_phone_number/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>20</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/valid_parentheses/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>21</td>
+      <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/merge_two_sorted_lists/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>22</td>
+      <td><a href="https://leetcode.com/problems/generate-parentheses/">Generate Parentheses</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/generate-parentheses/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/generate_parentheses/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>26</td>
+      <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_duplicates_from_sorted_array/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>27</td>
+      <td><a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/remove-element/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/remove_element/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>33</td>
+      <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/search_in_rotated-sorted_array/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>34</td>
+      <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find First and Last Position of Element in Sorted Array</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/find_first_and_last_position_of_element_in_sorted_array/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>37</td>
+      <td><a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/sudoku-solver/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/sudoku_solver/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>39</td>
+      <td><a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/combination-sum/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/combination_sum/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>40</td>
+      <td><a href="https://leetcode.com/problems/combination-sum-ii/">Combination Sum II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/combination-sum-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/combination_sum_II/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>42</td>
+      <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/trapping-rain-water/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/trapping_rain_water/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>46</td>
+      <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/permutations/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/permutations/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>47</td>
+      <td><a href="https://leetcode.com/problems/permutations-ii/">Permutations II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/permutations-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/permutations_II/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>49</td>
+      <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/group-anagrams/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/group_anagrams/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>51</td>
+      <td><a href="https://leetcode.com/problems/n-queens/">N-Queens</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/n-queens/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/n_queens/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>69</td>
+      <td><a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/sqrtx/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/sqrtx_x/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>70</td>
+      <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/climbing-stairs/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/climbing_stairs/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>71</td>
+      <td><a href="https://leetcode.com/problems/simplify-path/">Simplify Path</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/simplify-path/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/simplify_path/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>74</td>
+      <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2D Matrix</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/search_a_2d_matrix/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>76</td>
+      <td><a href="https://leetcode.com/problems/minimum-window-substring/">Minimum Window Substring</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/minimum-window-substring/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/minimum_with_substring/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>76</td>
+      <td><a href="https://leetcode.com/problems/minimum-window-substring/">Minimum Window Substring</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/minimum-window-substring/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/minimum_window_substring/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>78</td>
+      <td><a href="https://leetcode.com/problems/subsets/">Subsets</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/subsets/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/subset/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>79</td>
+      <td><a href="https://leetcode.com/problems/word-search/">Word Search</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/word-search/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/word_search/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>81</td>
+      <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">Search in Rotated Sorted Array II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/search_in_rotated_sorted_array_II/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>90</td>
+      <td><a href="https://leetcode.com/problems/subsets-ii/">Subsets II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/subsets-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/subset_II/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>98</td>
+      <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/validate_binary_search_tree/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>100</td>
+      <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/same-tree/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/same_tree/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>102</td>
+      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/binary_tree_level_order_traversal/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>104</td>
+      <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/maximum_depth_of_binary_tree/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>121</td>
+      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/best_time_to_buy_and_sell_stock/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>122</td>
+      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">Best Time to Buy and Sell Stock II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/best_time_to_buy_and_sell_stock_ii/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>125</td>
+      <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/valid-palindrome/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/valid_palindrome/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>131</td>
+      <td><a href="https://leetcode.com/problems/palindrome-partitioning/">Palindrome Partitioning</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/palindrome-partitioning/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/palindrome_partitioning/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>136</td>
+      <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/single-number/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/single_number/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>137</td>
+      <td><a href="https://leetcode.com/problems/single-number-ii/">Single Number II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/single-number-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/single_number_II/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>141</td>
+      <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/linked-list-cycle/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/linked_list_cycle/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>146</td>
+      <td><a href="https://leetcode.com/problems/lru-cache/">LRU Cache</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/lru-cache/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/lru_cache/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>154</td>
+      <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array II</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/find_minimum_in_rotated_sorted_array_II/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>155</td>
+      <td><a href="https://leetcode.com/problems/min-stack/">Min Stack</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/min-stack/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/min_stack/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>159</td>
+      <td><a href="https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/">Longest Substring with At Most Two Distinct Characters</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/longest_substring_with_at_most_two_distinct_characters/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>167</td>
+      <td><a href="https://leetcode.com/problems/two-sum-ii---input-array-is-sorted/">Two Sum II - Input array is sorted</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/two-sum-ii---input-array-is-sorted/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/two_sumII/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>173</td>
+      <td><a href="https://leetcode.com/problems/binary-search-tree-iterator/">Binary Search Tree Iterator</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/binary-search-tree-iterator/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/binary_search_tree_iterator/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>189</td>
+      <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/rotate-array/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/rotate_array/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>198</td>
+      <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/house-robber/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/house_robber/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>200</td>
+      <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/number-of-islands/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/number_of_islands/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>206</td>
+      <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/reverse-linked-list/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/reverse_linked_list/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>207</td>
+      <td><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/course-schedule/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/course_schedule/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>209</td>
+      <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/minimum_size_subarray_sum/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>213</td>
+      <td><a href="https://leetcode.com/problems/house-robber-ii/">House Robber II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/house-robber-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/house_robberII/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>216</td>
+      <td><a href="https://leetcode.com/problems/combination-sum-iii/">Combination Sum III</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/combination-sum-iii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/combination_sum_III/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>226</td>
+      <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/invert-binary-tree/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/invert_binary_tree/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>227</td>
+      <td><a href="https://leetcode.com/problems/basic-calculator-ii/">Basic Calculator II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/basic-calculator-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/basic_calculator_II/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>230</td>
+      <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/ktn_smallest_element_in_a_bst/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>236</td>
+      <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/">Lowest Common Ancestor of a Binary Tree</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/lowest_common_ancestor_of_a_binary_tree/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>238</td>
+      <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/product-of-array-except-self/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/product_of_array_except_self/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>239</td>
+      <td><a href="https://leetcode.com/problems/sliding-window-maximum/">Sliding Window Maximum</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/sliding-window-maximum/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/sliding_window_maximum/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>242</td>
+      <td><a href="https://leetcode.com/problems/valid-anagram/">Valid Anagram</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/valid-anagram/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/valid_anagram/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>260</td>
+      <td><a href="https://leetcode.com/problems/single-number-iii/">Single Number III</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/single-number-iii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/single_number_III/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>278</td>
+      <td><a href="https://leetcode.com/problems/first-bad-version/">First Bad Version</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/first-bad-version/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/first_bad_version/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>283</td>
+      <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/move-zeroes/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/move_zeroes/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>438</td>
+      <td><a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">Find All Anagrams in a String</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/find_all_anagrams_in_a_string/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>487</td>
+      <td><a href="https://leetcode.com/problems/max-consecutive-ones-ii/">Max Consecutive Ones II</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/max-consecutive-ones-ii/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/max_consecutive_onesII/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>509</td>
+      <td><a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci Number</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/fibonacci-number/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/fibonacci_number/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>543</td>
+      <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">Diameter of Binary Tree</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/diameter_of_binary_tree/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>560</td>
+      <td><a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/subarray-sum-equals-k/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/subarray_sum_equals_k/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>567</td>
+      <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/permutation-in-string/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/premutation_in_string/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>643</td>
+      <td><a href="https://leetcode.com/problems/maximum-average-subarray-i/">Maximum Average Subarray I</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/maximum-average-subarray-i/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/maximum_average_subarrayI/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>700</td>
+      <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">Search in a Binary Search Tree</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/search_in_a_binary_search_tree/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>704</td>
+      <td><a href="https://leetcode.com/problems/binary-search/">Binary Search</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/binary-search/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/binary_search/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>740</td>
+      <td><a href="https://leetcode.com/problems/delete-and-earn/">Delete and Earn</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/delete-and-earn/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/delete_and_earn/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>746</td>
+      <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/min_cost_climbing_stairs/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>784</td>
+      <td><a href="https://leetcode.com/problems/letter-case-permutation/">Letter Case Permutation</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/letter-case-permutation/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/letter_case_permutation/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>1052</td>
+      <td><a href="https://leetcode.com/problems/grumpy-bookstore-owner/">Grumpy Bookstore Owner</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/grumpy-bookstore-owner/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/grumpy_bookstore_owner/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>1060</td>
+      <td><a href="https://leetcode.com/problems/missing-element-in-sorted-array/">Missing Element in Sorted Array</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/missing-element-in-sorted-array/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/missing_element_in_sorted_array/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>1106</td>
+      <td><a href="https://leetcode.com/problems/parsing-a-boolean-expression/">Parsing a Boolean Expression</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/parsing-a-boolean-expression/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/parsing_a_boolean_expression/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>1106</td>
+      <td><a href="https://leetcode.com/problems/parsing-a-boolean-expression/">Parsing a Boolean Expression</a></td>
+      <td>hard</td>
+      <td><a href="https://leetcode.com/problems/parsing-a-boolean-expression/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/hard/parsing_a_boolean_expression/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>1137</td>
+      <td><a href="https://leetcode.com/problems/nth-tribonacci-number/">Nth Tribonacci Number</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/nth-tribonacci-number/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/nth_tribonacci_number/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>1151</td>
+      <td><a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/">Minimum Swaps to Group All 1's Together</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/minimum_swaps_to_group_all_1s_together/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>1208</td>
+      <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/">Get Equal Substrings Within Budget</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/get-equal-substrings-within-budget/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/get_equal_substring_within_budget/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>1423</td>
+      <td><a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">Maximum Points You Can Obtain from Cards</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/maximum_points_you_can_obtain_from_cards/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>1432</td>
+      <td><a href="https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/">Max Difference You Can Get From Changing an Integer</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/max_difference_you_can_get_from_changing_a_integer/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>1473</td>
+      <td><a href="https://leetcode.com/problems/final-price-with-a-special-discount-in-a-shop/">Final Price With a Special Discount in a Shop</a></td>
+      <td>easy</td>
+      <td><a href="https://leetcode.com/problems/final-price-with-a-special-discount-in-a-shop/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/easy/final_price_with_a_special_discount_in_a_shop/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>1482</td>
+      <td><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">Minimum Number of Days to Make m Bouquets</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/minimum_number_of_days_to_make_m_bouquets/solution.py">Solution</a></td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>1695</td>
+      <td><a href="https://leetcode.com/problems/maximum-erasure-value/">Maximum Erasure Value</a></td>
+      <td>medium</td>
+      <td><a href="https://leetcode.com/problems/maximum-erasure-value/">LeetCode Link</a></td>
+      <td><a href="https://github.com/robinali34/leetcode_python/blob/main/src/medium/maximum_erasure_value/solution.py">Solution</a></td>
+    </tr>
+  </tbody>
+</table>
