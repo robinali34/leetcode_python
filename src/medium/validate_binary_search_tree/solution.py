@@ -19,6 +19,14 @@ class TreeNode:
         return f"TreeNode({self.val}, {self.left}, {self.right})"
 
 class Solution:
+    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        def dfs(node: Optional[TreeNode], low=-math.inf, high=math.inf):
+            if not node: return True
+            if node.val <= low or node.val >= high:
+                return False
+            return dfs(node.right, node.val, high) and dfs(node.left, low, node.val)
+        return dfs(root)
+
     # Recursive DFS (Top-down)
     def isValidBST_recursive(self, root: Optional[TreeNode]) -> bool:
         def validate(node, low=-math.inf, high=math.inf):
@@ -106,6 +114,7 @@ def main():
     ]
 
     methods = [
+        ("isValidBST", sol.isValidBST),
         ("Recursive DFS", sol.isValidBST_recursive),
         ("Iterative DFS", sol.isValidBST_dfs_iterative),
         ("DFS Recursive Inorder Traversal", sol.isValidBST_dfs_recursive_inorder)

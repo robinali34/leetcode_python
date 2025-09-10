@@ -15,6 +15,18 @@ class Solution(object):
         if n <= 1: return n
         return self.fib(n - 1) + self.fib(n - 2)
 
+    def __init__(self):
+        self.cache = dict()
+    def fib1(self, n: int) -> int:
+        if n in self.cache:
+            return self.cache[n]
+        if n < 2:
+            rtn = n
+        else:
+            rtn = self.fib(n - 1) + self.fib(n - 2)
+        self.cache[n] = rtn
+        return rtn
+
 if __name__ == '__main__':
     solution = Solution()
     rtn = solution.fib(2)
@@ -22,4 +34,11 @@ if __name__ == '__main__':
     rtn = solution.fib(3)
     print(2 == rtn)
     rtn = solution.fib(4)
+    print(3 == rtn)
+
+    rtn = solution.fib1(2)
+    print(1 == rtn)
+    rtn = solution.fib1(3)
+    print(2 == rtn)
+    rtn = solution.fib1(4)
     print(3 == rtn)
